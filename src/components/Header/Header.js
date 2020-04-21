@@ -34,9 +34,9 @@ Header.defaultProps = {
       key="api-link"
       target="_blank"
       rel="noopener noreferrer"
-      href="https://cloud.ibm.com/apidocs/natural-language-understanding"
+      href=""
     >
-      <p className="link-text">API reference</p>
+      <p className="link-text"></p>
       <Api124 className="link-icon" />
     </Link>,
     <Link
@@ -44,9 +44,9 @@ Header.defaultProps = {
       key="docs-link"
       target="_blank"
       rel="noopener noreferrer"
-      href="https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-getting-started"
+      href=""
     >
-      <p className="link-text">Documentation</p>
+      <p className="link-text"></p>
       <Document24 className="link-icon" />
     </Link>,
     <Link
@@ -54,9 +54,9 @@ Header.defaultProps = {
       key="github-link"
       target="_blank"
       rel="noopener noreferrer"
-      href="https://github.com/watson-developer-cloud/natural-language-understanding-code-pattern"
+      href=""
     >
-      <p className="link-text">GitHub</p>
+      <p className="link-text"></p>
       <LogoGithub24 className="link-icon" />
     </Link>,
     <Link
